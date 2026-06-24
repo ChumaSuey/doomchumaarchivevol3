@@ -1,0 +1,108 @@
+README
+===========================================================================
+Archive Maintainer      : Due to how my mind works, if this wad gets accepted
+                          or rejected in the file please send me an email.
+Advanced engine needed  : MBF21
+Primary purpose         : Single play
+===========================================================================
+Title                   : Aesthetic Face of Evil (AFoE)
+Filename                : afoeno.wad
+Release date            : 10/13/2025 
+Author                  : Chuma
+Email Address           : hyperghostblade@gmail.com
+Other Files By Author   : - Cold Shuulathoi.
+                          - Lost Memories of the lunar Eclipse.
+                          - also maps in a lot Pacifist Paradise mapping
+                          activities.
+
+Description             : Aesthetic Face of Evil was an independent project i
+                          decided to start a while ago, since i've got
+                          captivated by Neon Overdrive, i decided to give it
+                          a go. (this WAD uses Neon Overdrive assets)
+                          
+                          Since my mapping style in Quake and also Doom has
+                          leaned toward the Aestheticness and Groovy vibes,
+                          it seemed a good step for me in doing so.
+                          
+                          The music was composed by me, no other original
+                          music idea, i went to produce this track to insert
+                          it in the map, a challenge because my MIDI music
+                          composing has had ups and downs, but i'm always
+                          willing to experiment, learn and grow.
+                          
+                          Hugs, hugs for everyone!
+                          
+                          Shine with style!
+                          
+                          - Chuma
+
+Additional Credits to   : Neon Overdrive lead developer - Ash
+                          Nights.
+                          Phoenyx.
+                          And everyone in Pacifist Paradise for being like a 
+                          family for me. <3
+                          
+                          Also a small credit in spirit to Meowgi for always
+                          believing in me.
+                          
+                          The song was composed by me but i credit my band
+                          Blood Instinct (my band, special thanks to my
+                          collaborators Alphaent and DevSEb)
+                          
+                          Thanks to:
+                          Quake mapping discord.
+                          Friends and family.
+                          Skillmaster and everyone who are my gamedev/modder
+                          colleagues :)
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : Requires Neon Overdrive assets (all assets within
+                          the wad)
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Player starts only
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : V1.0
+Build Time              : 2 weeks (on and off)
+Editor(s) used          : UDB, SLADE
+Known Bugs              : Not that i am aware of, if you do find one contact
+                          me on discord or send me an email.
+May Not Run With        : Anything outside MBF21 scope
+Tested With             : DSDA-Doom (MBF21)
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
